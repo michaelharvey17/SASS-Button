@@ -1,0 +1,114 @@
+.login {
+  width: 200px; }
+  .login input[type=text], .login input[type=password] {
+    width: 150px;
+    border-radius: 5px; }
+
+.round {
+  width: 20px;
+  height: 20px;
+  border-radius: 100px; }
+
+.tall {
+  width: 20px;
+  border-radius: 5px;
+  word-wrap: break-word; }
+
+.round-large {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px; }
+
+.round-medium {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px; }
+
+.round-small {
+  width: 50px;
+  height: 50px;
+  border-radius: 100px; }
+
+.round-xsmall {
+  width: 30px;
+  height: 30px;
+  border-radius: 100px; }
+
+.square {
+  width: 20px;
+  height: 20px;
+  border-radius: 5px; }
+
+.square-large {
+  width: 200px;
+  height: 200px;
+  border-radius: 5px; }
+
+.square-medium {
+  width: 100px;
+  height: 100px;
+  border-radius: 5px; }
+
+.square-small {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px; }
+
+.square-xsmall {
+  width: 30px;
+  height: 30px;
+  border-radius: 5px; }
+
+.square-edge {
+  width: 20px;
+  height: 20px;
+  border-radius: 0; }
+
+.square-edge-large {
+  width: 200px;
+  height: 200px; }
+
+.square-edge-medium {
+  width: 100px;
+  height: 100px; }
+
+.square-edge-small {
+  width: 50px;
+  height: 50px; }
+
+.square-edge-xsmall {
+  width: 30px;
+  height: 30px; }
+
+.bt-red {
+  background-color: red;
+  border-color: red; }
+
+.bt-green {
+  background-color: green;
+  border-color: green; }
+
+.bt-blue {
+  background-color: blue;
+  border-color: blue; }
+
+.bt-yellow {
+  background-color: yellow;
+  border-color: yellow; }
+
+.bt-white {
+  background-color: white;
+  border-color: white; }
+
+.bt-black {
+  background-color: #111111;
+  border-color: #111111; }
+
+.bt-color-custom {
+  background-color: #ffffff;
+  border-color: #ffffff; }
+
+body {
+  font-family: sans-serif; }
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,116 @@
+$size-height-standard: 20px;
+$size-width-standard: 40px;
+$radius-standard: 5px;
+$size-large: 200px;
+$size-medium: 100px;
+$size-small: 50px;
+$size-xsmall: 30px;
+$radius-round: 100px;
+
+$color-custom: #ffffff;
+
+
+.round{
+	width: $size-height-standard;
+	height: $size-height-standard;
+	border-radius: $radius-round;
+}
+.tall{
+	width: $size-height-standard;
+	border-radius: $radius-standard;
+	word-wrap: break-word;
+}
+.round-large{
+	width: $size-large;
+	height: $size-large;
+	border-radius: $radius-round;
+}
+.round-medium{
+	width: $size-medium;
+	height: $size-medium;
+	border-radius: $radius-round;
+}
+.round-small{
+	width: $size-small;
+	height: $size-small;
+	border-radius: $radius-round;
+}
+.round-xsmall{
+	width: $size-xsmall;
+	height: $size-xsmall;
+	border-radius: $radius-round;
+}
+.square{
+	width: $size-height-standard;
+	height: $size-height-standard;
+	border-radius: $radius-standard;
+}
+.square-large{
+	width: $size-large;
+	height: $size-large;
+	border-radius: $radius-standard;
+}
+.square-medium{
+	width: $size-medium;
+	height: $size-medium;
+	border-radius: $radius-standard;
+}
+.square-small{
+	width: $size-small;
+	height: $size-small;
+	border-radius: $radius-standard;
+}
+.square-xsmall{
+	width: $size-xsmall;
+	height: $size-xsmall;
+	border-radius: $radius-standard;
+}
+.square-edge{
+	width: $size-height-standard;
+	height: $size-height-standard;
+	border-radius: 0;
+}
+.square-edge-large{
+	width: $size-large;
+	height: $size-large;
+}
+.square-edge-medium{
+	width: $size-medium;
+	height: $size-medium;
+}
+.square-edge-small{
+	width: $size-small;
+	height: $size-small;
+}
+.square-edge-xsmall{
+	width: $size-xsmall;
+	height: $size-xsmall;
+}
+.bt-red{
+	background-color: red;
+	border-color: red;
+}
+.bt-green{
+	background-color: green;
+	border-color: green;
+}
+.bt-blue{
+	background-color: blue;
+	border-color: blue;
+}
+.bt-yellow{
+	background-color: yellow;
+	border-color: yellow;
+}
+.bt-white{
+	background-color: white;
+	border-color: white;
+}
+.bt-black{
+	background-color: #111111;
+	border-color: #111111;
+}
+.bt-color-custom{
+	background-color: $color-custom;
+	border-color: $color-custom;
+}
